@@ -1,6 +1,6 @@
 # Insertion Sort
 
-## Proje 1 - Indertion Sort
+## Proje 1 - Insertion Sort
 [22,27,16,2,18,6] dizininin Insertion Sort'a göre aşamaları aşağıda belirtildiği gibidir.
 
 İlk aşamada dizindeki en küçük elemanı bulur ve ilk elemanla yer değiştirir -> [2,27,16,22,18,6]. Sonrasında bu işleme diğer elemanla devam eder -> [2,6,16,22,18,27].
